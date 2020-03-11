@@ -1,0 +1,9 @@
+What is Spring
+===============
+The act of wiring beans together is based on a pattern known as dependency injection
+(DI). Rather than have components create and maintain the lifecycle of other beans
+that they depend on, a dependency-injected application relies on a separate entity
+(the container) to create and maintain all components and inject those into the beans
+that need them. This is done typically through constructor arguments or property
+accessor methods
+
